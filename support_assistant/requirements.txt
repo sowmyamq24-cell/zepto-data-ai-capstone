@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+chromadb
+langgraph
+sentence-transformers
